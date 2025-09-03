@@ -1,0 +1,302 @@
+[
+    {
+        "Day": "SUN",
+        "Time": "08:00 AM - 10:00 AM",
+        "Class Type": "Lecture",
+        "Module Code": "5CS019",
+        "Module Title": "Object-Oriented Design and Programming",
+        "Lecturer": "Mr. Sandip Tiwari",
+        "Group": "L4CG1+L4CG2",
+        "Room": "LT - 01 Wulfurna"
+    },
+    {
+        "Day": "SUN",
+        "Time": "08:00 AM - 10:00 AM",
+        "Class Type": "Lecture",
+        "Module Code": "5CS037",
+        "Module Title": "Concepts and Technologies of AI",
+        "Lecturer": "Mr. Ayush Regmi",
+        "Group": "L4CG3+L4CG4",
+        "Room": "SR - 02 Compton"
+    },
+    {
+        "Day": "SUN",
+        "Time": "12:00 PM - 2:00 PM",
+        "Class Type": "Lecture",
+        "Module Code": "5CS019",
+        "Module Title": "Object-Oriented Design and Programming",
+        "Lecturer": "Mr. Sandip Tiwari",
+        "Group": "L4CG3+L4CG4",
+        "Room": "LT - 01 Wulfurna"
+    },
+    {
+        "Day": "MON",
+        "Time": "07:00 AM - 09:00 AM",
+        "Class Type": "Tutorial",
+        "Module Code": "5CS019",
+        "Module Title": "Object-Oriented Design and Programming",
+        "Lecturer": "Mr. Sandip Tiwari",
+        "Group": "L4CG2",
+        "Room": "LT - 01 Wulfurna"
+    },
+    {
+        "Day": "MON",
+        "Time": "07:00 AM - 09:00 AM",
+        "Class Type": "Tutorial",
+        "Module Code": "5CS037",
+        "Module Title": "Concepts and Technologies of AI",
+        "Lecturer": "Mr. Ayush Regmi",
+        "Group": "L4CG4",
+        "Room": "SR - 02 Compton"
+    },
+    {
+        "Day": "MON",
+        "Time": "10:00 AM - 12:00 PM",
+        "Class Type": "Lecture",
+        "Module Code": "5CS045",
+        "Module Title": "Full Stack Development",
+        "Lecturer": "Mr. Arvind Nepal",
+        "Group": "L4CG1+L4CG2",
+        "Room": "LT - 01 Wulfurna"
+    },
+    {
+        "Day": "MON",
+        "Time": "11:30 AM - 01:30 PM",
+        "Class Type": "Tutorial",
+        "Module Code": "5CS037",
+        "Module Title": "Concepts and Technologies of AI",
+        "Lecturer": "Mr. Ayush Regmi",
+        "Group": "L4CG3",
+        "Room": "SR - 02 Compton"
+    },
+    {
+        "Day": "MON",
+        "Time": "12:30 PM - 02:30 PM",
+        "Class Type": "Tutorial",
+        "Module Code": "5CS019",
+        "Module Title": "Object-Oriented Design and Programming",
+        "Lecturer": "Mr. Sandip Tiwari",
+        "Group": "L4CG1",
+        "Room": "SR - 01 Wolves"
+    },
+    {
+        "Day": "TUE",
+        "Time": "07:00 AM - 09:00 AM",
+        "Class Type": "Lecture",
+        "Module Code": "5CS045",
+        "Module Title": "Full Stack Development",
+        "Lecturer": "Mr. Arvind Nepal",
+        "Group": "L4CG3+L4CG4",
+        "Room": "SR - 01 Wolves"
+    },
+    {
+        "Day": "TUE",
+        "Time": "08:00 AM - 10:00 AM",
+        "Class Type": "Lecture",
+        "Module Code": "5CS037",
+        "Module Title": "Concepts and Technologies of AI",
+        "Lecturer": "Mr. Ayush Regmi",
+        "Group": "L4CG1+L4CG2",
+        "Room": "LT - 01 Wulfurna"
+    },
+    {
+        "Day": "TUE",
+        "Time": "10:00 AM - 12:00 PM",
+        "Class Type": "Tutorial",
+        "Module Code": "5CS045",
+        "Module Title": "Full Stack Development",
+        "Lecturer": "Mr. Arvind Nepal",
+        "Group": "L4CG2",
+        "Room": "SR - 01 Wolves"
+    },
+    {
+        "Day": "TUE",
+        "Time": "11:00 AM - 01:00 PM",
+        "Class Type": "Tutorial",
+        "Module Code": "5CS019",
+        "Module Title": "Object-Oriented Design and Programming",
+        "Lecturer": "Mr. Sandip Tiwari",
+        "Group": "L4CG4",
+        "Room": "LT - 01 Wulfurna"
+    },
+    {
+        "Day": "TUE",
+        "Time": "12:30 PM - 02:30 PM",
+        "Class Type": "Tutorial",
+        "Module Code": "5CS045",
+        "Module Title": "Full Stack Development",
+        "Lecturer": "Mr. Arvind Nepal",
+        "Group": "L4CG1",
+        "Room": "SR - 02 Compton"
+    },
+    {
+        "Day": "WED",
+        "Time": "07:00 AM - 09:00 AM",
+        "Class Type": "Tutorial",
+        "Module Code": "5CS037",
+        "Module Title": "Concepts and Technologies of AI",
+        "Lecturer": "Mr. Ayush Regmi",
+        "Group": "L4CG1",
+        "Room": "LT - 01 Wulfurna"
+    },
+    {
+        "Day": "WED",
+        "Time": "07:00 AM - 09:00 AM",
+        "Class Type": "Tutorial",
+        "Module Code": "5CS045",
+        "Module Title": "Full Stack Development",
+        "Lecturer": "Mr. Arvind Nepal",
+        "Group": "L4CG4",
+        "Room": "SR - 01 Wolves"
+    },
+    {
+        "Day": "WED",
+        "Time": "09:00 AM - 11:00 AM",
+        "Class Type": "Tutorial",
+        "Module Code": "5CS019",
+        "Module Title": "Object-Oriented Design and Programming",
+        "Lecturer": "Mr. Sandip Tiwari",
+        "Group": "L4CG3",
+        "Room": "LT - 01 Wulfurna"
+    },
+    {
+        "Day": "WED",
+        "Time": "10:00 AM - 12:00 PM",
+        "Class Type": "Tutorial",
+        "Module Code": "5CS037",
+        "Module Title": "Concepts and Technologies of AI",
+        "Lecturer": "Mr. Ayush Regmi",
+        "Group": "L4CG2",
+        "Room": "SR - 01 Wolves"
+    },
+    {
+        "Day": "WED",
+        "Time": "11:30 AM - 02:00 PM",
+        "Class Type": "Workshop",
+        "Module Code": "5CS019",
+        "Module Title": "Object-Oriented Design and Programming",
+        "Lecturer": "Mr. Sandip Tiwari",
+        "Group": "L4CG1",
+        "Room": "LT - 01 Wulfurna"
+    },
+    {
+        "Day": "WED",
+        "Time": "12:00 PM - 02:00 PM",
+        "Class Type": "Tutorial",
+        "Module Code": "5CS045",
+        "Module Title": "Full Stack Development",
+        "Lecturer": "Mr. Arvind Nepal",
+        "Group": "L4CG3",
+        "Room": "SR - 01 Wolves"
+    },
+    {
+        "Day": "THU",
+        "Time": "07:00 AM - 09:30 AM",
+        "Class Type": "Workshop",
+        "Module Code": "5CS045",
+        "Module Title": "Full Stack Development",
+        "Lecturer": "Mr. Arvind Nepal",
+        "Group": "L4CG2",
+        "Room": "LT - 01 Wulfurna"
+    },
+    {
+        "Day": "THU",
+        "Time": "07:00 AM - 09:30 AM",
+        "Class Type": "Workshop",
+        "Module Code": "5CS019",
+        "Module Title": "Object-Oriented Design and Programming",
+        "Lecturer": "Mr. Sandip Tiwari",
+        "Group": "L4CG3",
+        "Room": "SR - 01 Wolves"
+    },
+    {
+        "Day": "THU",
+        "Time": "07:00 AM - 09:30 AM",
+        "Class Type": "Workshop",
+        "Module Code": "5CS037",
+        "Module Title": "Concepts and Technologies of AI",
+        "Lecturer": "Mr. Ayush Regmi",
+        "Group": "L4CG4",
+        "Room": "SR - 02 Compton"
+    },
+    {
+        "Day": "THU",
+        "Time": "10:00 AM - 12:30 PM",
+        "Class Type": "Workshop",
+        "Module Code": "5CS045",
+        "Module Title": "Full Stack Development",
+        "Lecturer": "Mr. Arvind Nepal",
+        "Group": "L4CG3",
+        "Room": "LT - 01 Wulfurna"
+    },
+    {
+        "Day": "THU",
+        "Time": "10:30 AM - 01:00 PM",
+        "Class Type": "Workshop",
+        "Module Code": "5CS037",
+        "Module Title": "Concepts and Technologies of AI",
+        "Lecturer": "Mr. Ayush Regmi",
+        "Group": "L4CG1",
+        "Room": "SR - 02 Compton"
+    },
+    {
+        "Day": "THU",
+        "Time": "11:30 AM - 02:00 PM",
+        "Class Type": "Workshop",
+        "Module Code": "5CS019",
+        "Module Title": "Object-Oriented Design and Programming",
+        "Lecturer": "Mr. Sandip Tiwari",
+        "Group": "L4CG4",
+        "Room": "SR - 01 Wolves"
+    },
+    {
+        "Day": "FRI",
+        "Time": "07:00 AM - 09:30 AM",
+        "Class Type": "Workshop",
+        "Module Code": "5CS019",
+        "Module Title": "Object-Oriented Design and Programming",
+        "Lecturer": "Mr. Sandip Tiwari",
+        "Group": "L4CG2",
+        "Room": "LT - 01 Wulfurna"
+    },
+    {
+        "Day": "FRI",
+        "Time": "07:00 AM - 09:30 AM",
+        "Class Type": "Workshop",
+        "Module Code": "5CS045",
+        "Module Title": "Full Stack Development",
+        "Lecturer": "Mr. Arvind Nepal",
+        "Group": "L4CG4",
+        "Room": "SR - 01 Wolves"
+    },
+    {
+        "Day": "FRI",
+        "Time": "07:00 AM - 09:30 AM",
+        "Class Type": "Workshop",
+        "Module Code": "5CS037",
+        "Module Title": "Concepts and Technologies of AI",
+        "Lecturer": "Mr. Ayush Regmi",
+        "Group": "L4CG3",
+        "Room": "SR - 02 Compton"
+    },
+    {
+        "Day": "FRI",
+        "Time": "10:30 AM - 01:00 PM",
+        "Class Type": "Workshop",
+        "Module Code": "5CS037",
+        "Module Title": "Concepts and Technologies of AI",
+        "Lecturer": "Mr. Ayush Regmi",
+        "Group": "L4CG2",
+        "Room": "LT - 01 Wulfurna"
+    },
+    {
+        "Day": "FRI",
+        "Time": "10:30 AM - 01:00 PM",
+        "Class Type": "Workshop",
+        "Module Code": "5CS045",
+        "Module Title": "Full Stack Development",
+        "Lecturer": "Mr. Arvind Nepal",
+        "Group": "L4CG1",
+        "Room": "SR - 01 Wolves"
+    }
+]
