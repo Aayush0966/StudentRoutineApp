@@ -9,7 +9,7 @@ import {
   StatusBar,
   Alert,
 } from 'react-native';
-import { LinearGradient } from 'expo-linear-gradient';
+
 import * as SecureStore from 'expo-secure-store';
 import { ClassSchedule, DayOfWeek } from './types';
 import classScheduleData from './class_schedule.json';
@@ -188,25 +188,6 @@ export default function App() {
 
   const renderDayPicker = () => (
     <View style={styles.dayPickerContainer}>
-      <TouchableOpacity
-        style={[
-          styles.dayButton,
-          { 
-            borderColor: selectedDay === 'ALL' ? theme.primary : theme.border,
-            backgroundColor: selectedDay === 'ALL' ? theme.primary : theme.surface
-          }
-        ]}
-        onPress={() => setSelectedDay('ALL')}
-        activeOpacity={0.7}
-      >
-        <Text style={[
-          styles.dayButtonText,
-          { color: selectedDay === 'ALL' ? '#ffffff' : theme.text }
-        ]}>
-          ALL
-        </Text>
-      </TouchableOpacity>
-      
       {DAYS.map((day) => (
         <TouchableOpacity
           key={day}
@@ -258,11 +239,7 @@ export default function App() {
 
   const renderSchedule = () => (
     <SafeAreaView style={[styles.container, { backgroundColor: theme.background }]}>
-      <LinearGradient
-        colors={[theme.primary, theme.background]}
-        style={styles.headerGradient}
-        locations={[0.6, 1]}
-      >
+      <View style={[styles.headerContainer, { backgroundColor: theme.primary }]}>
         <View style={styles.headerTop}>
           <View style={styles.headerLeft}>
             <Text style={[styles.welcomeText, { color: '#ffffff' }]}>Hi Student! 👋</Text>
@@ -287,8 +264,11 @@ export default function App() {
             </TouchableOpacity>
           </View>
         </View>
-        {renderDayPicker()}
-      </LinearGradient>
+      </View>
+      <View style={styles.dayPickerContainer}> 
+              {renderDayPicker()}
+      </View>
+
       <ScrollView style={styles.scheduleContainer} showsVerticalScrollIndicator={false}>
         {selectedDay === 'ALL' ? (
           DAYS.map((day) => {
@@ -381,7 +361,7 @@ const styles = StyleSheet.create({
   header: {
     marginBottom: 10,
   },
-  headerGradient: {
+  headerContainer: {
     paddingBottom: 10,
   },
   headerTop: {
@@ -412,22 +392,23 @@ const styles = StyleSheet.create({
     fontWeight: '600',
   },
   dayPickerContainer: {
+    display: 'flex',
     flexDirection: 'row',
     paddingHorizontal: 20,
+    width: '100%',
     paddingVertical: 10,
-    justifyContent: 'space-between',
     flexWrap: 'wrap',
-    gap: 8,
+    justifyContent: 'space-between',
   },
   dayButton: {
-    flex: 1,
-    minWidth: 50,
+    width: '30%',
     paddingVertical: 8,
     borderWidth: 1,
     height: 40,
     borderRadius: 20,
     alignItems: 'center',
     justifyContent: 'center',
+    marginBottom: 10,
   },
   dayButtonText: {
     fontSize: 14,
